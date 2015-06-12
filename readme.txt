@@ -6,3 +6,4 @@ Git ia a great software. --2nd edit.
 Git has a mutable index called stage. --3rd edit.
 Git tracks changes of file. --4th edit.
 I changed this line . --The 2nd time.
+A sample test...........................
